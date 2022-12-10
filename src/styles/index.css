@@ -1,12 +1,30 @@
+.container{
+    width: 200px;
+    background: black;
 
-/* 
+}
 
-    You can write your own styles here...
+button{
+    height: 150px;
+    width: 150px;
     
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+}
 
-*/
+.encendido{
+    
+    background: linear-gradient(<angle>, red, white);
+}
+
+.red{
+    background-color: red;
+    height: 150px;
+    width: 150px;
+    
+}
+.yellow{
+    background-color: yellow;
+
+}
+.green{
+    background-color: green;
+}

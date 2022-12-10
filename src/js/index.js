@@ -1,6 +1,7 @@
 //import react into the bundle
 import React from "react";
 import ReactDOM from "react-dom";
+import Traffic from "./component/traffic.jsx";
 
 // include your styles into the webpack bundle
 import "../styles/index.css";
